@@ -103,6 +103,6 @@ p:first-of-type {
     font-weight: bold;
 }
 img {
-    width: 40%;
-    height: 40%;
+    float:left
+    margin: 20px;
 }
